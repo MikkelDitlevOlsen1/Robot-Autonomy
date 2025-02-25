@@ -1,0 +1,279 @@
+[0.680s] Invoking command in '/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/src/Course-34761-robot-autonomy': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot build --build-base /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build install --record /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/install.log --single-version-externally-managed install_data
+[0.943s] running egg_info
+[0.944s] creating ../../build/my_turtlebot/my_turtlebot.egg-info
+[0.944s] writing ../../build/my_turtlebot/my_turtlebot.egg-info/PKG-INFO
+[0.945s] writing dependency_links to ../../build/my_turtlebot/my_turtlebot.egg-info/dependency_links.txt
+[0.945s] writing entry points to ../../build/my_turtlebot/my_turtlebot.egg-info/entry_points.txt
+[0.945s] writing requirements to ../../build/my_turtlebot/my_turtlebot.egg-info/requires.txt
+[0.945s] writing top-level names to ../../build/my_turtlebot/my_turtlebot.egg-info/top_level.txt
+[0.945s] writing manifest file '../../build/my_turtlebot/my_turtlebot.egg-info/SOURCES.txt'
+[0.948s] reading manifest file '../../build/my_turtlebot/my_turtlebot.egg-info/SOURCES.txt'
+[0.951s] writing manifest file '../../build/my_turtlebot/my_turtlebot.egg-info/SOURCES.txt'
+[0.951s] running build
+[0.951s] running build_py
+[0.951s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build
+[0.951s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build/lib
+[0.952s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build/lib/my_turtlebot
+[0.952s] copying my_turtlebot/__init__.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build/lib/my_turtlebot
+[0.952s] running install
+[0.952s] running install_lib
+[0.953s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot
+[0.953s] copying /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build/lib/my_turtlebot/__init__.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot
+[0.953s] byte-compiling /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot/__init__.py to __init__.cpython-310.pyc
+[0.954s] running install_data
+[0.954s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/ament_index
+[0.954s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/ament_index/resource_index
+[0.954s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/ament_index/resource_index/packages
+[0.954s] copying resource/my_turtlebot -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/ament_index/resource_index/packages
+[0.954s] copying package.xml -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot
+[0.955s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch
+[0.955s] copying launch/turtlebot_rviz.launch.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch
+[0.955s] copying launch/turtlebot_gazebo.launch.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch
+[0.955s] copying launch/turtlebot_simulation.launch.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch
+[0.955s] copying launch/turtlebot_bringup.launch.py -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch
+[0.955s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/rviz
+[0.956s] copying rviz/rviz_launch.rviz -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/rviz
+[0.956s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/worlds
+[0.956s] copying worlds/lab_world.world -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/worlds
+[0.956s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/maps
+[0.956s] copying maps/map.pgm -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/maps
+[0.956s] copying maps/map.yaml -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/maps
+[0.956s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models
+[0.956s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2
+[0.956s] copying models/Parrot Bebop 2/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2
+[0.957s] copying models/Parrot Bebop 2/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2
+[0.957s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.957s] copying models/Parrot Bebop 2/meshes/propeller_rr.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.957s] copying models/Parrot Bebop 2/meshes/propeller_fl.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.957s] copying models/Parrot Bebop 2/meshes/propeller_fr.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.958s] copying models/Parrot Bebop 2/meshes/propeller_rl.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.958s] copying models/Parrot Bebop 2/meshes/hull.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes
+[0.960s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.960s] copying models/Parrot Bebop 2/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.960s] copying models/Parrot Bebop 2/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.960s] copying models/Parrot Bebop 2/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.961s] copying models/Parrot Bebop 2/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.961s] copying models/Parrot Bebop 2/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails
+[0.961s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker
+[0.961s] copying models/marker/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker
+[0.961s] copying models/marker/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker
+[0.961s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/meshes
+[0.961s] copying models/marker/meshes/marker.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/meshes
+[0.962s] copying models/marker/meshes/marker_stand.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/meshes
+[0.962s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials
+[0.962s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.962s] copying models/marker/materials/textures/marker_1.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.962s] copying models/marker/materials/textures/marker_4.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.962s] copying models/marker/materials/textures/metal_texture.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.963s] copying models/marker/materials/textures/marker_3.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.963s] copying models/marker/materials/textures/marker_2.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.963s] copying models/marker/materials/textures/marker_5.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures
+[0.963s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.964s] copying models/marker/materials/scripts/my_marker_4.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.964s] copying models/marker/materials/scripts/my_marker_5.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.964s] copying models/marker/materials/scripts/my_marker_1.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.964s] copying models/marker/materials/scripts/my_marker_3.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.965s] copying models/marker/materials/scripts/my_marker_2.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.965s] copying models/marker/materials/scripts/my_marker_stand.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts
+[0.965s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier
+[0.965s] copying models/drc_practice_yellow_jersey_barrier/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier
+[0.966s] copying models/drc_practice_yellow_jersey_barrier/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier
+[0.966s] copying models/drc_practice_yellow_jersey_barrier/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier
+[0.966s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/meshes
+[0.966s] copying models/drc_practice_yellow_jersey_barrier/meshes/jersey_barrier.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/meshes
+[0.966s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable
+[0.966s] copying models/RecTable/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable
+[0.967s] copying models/RecTable/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable
+[0.967s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.967s] copying models/RecTable/meshes/RecTable.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.967s] copying models/RecTable/meshes/RecTable_Col.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.967s] copying models/RecTable/meshes/RecTable.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.967s] copying models/RecTable/meshes/RecTable_Col.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.967s] copying models/RecTable/meshes/rectable.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes
+[0.968s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.968s] copying models/RecTable/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.968s] copying models/RecTable/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.968s] copying models/RecTable/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.969s] copying models/RecTable/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.969s] copying models/RecTable/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails
+[0.969s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at
+[0.969s] copying models/pioneer3at/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at
+[0.969s] copying models/pioneer3at/model-1_3.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at
+[0.969s] copying models/pioneer3at/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at
+[0.970s] copying models/pioneer3at/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at
+[0.970s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/meshes
+[0.970s] copying models/pioneer3at/meshes/chassis.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/meshes
+[0.970s] copying models/pioneer3at/meshes/wheel.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/meshes
+[0.970s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard
+[0.971s] copying models/MonitorAndKeyboard/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard
+[0.971s] copying models/MonitorAndKeyboard/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard
+[0.971s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes
+[0.971s] copying models/MonitorAndKeyboard/meshes/keyboard.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes
+[0.971s] copying models/MonitorAndKeyboard/meshes/monitor.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes
+[0.972s] copying models/MonitorAndKeyboard/meshes/keyboard.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes
+[0.972s] copying models/MonitorAndKeyboard/meshes/monitor.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes
+[0.972s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.972s] copying models/MonitorAndKeyboard/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.972s] copying models/MonitorAndKeyboard/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.972s] copying models/MonitorAndKeyboard/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.972s] copying models/MonitorAndKeyboard/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.973s] copying models/MonitorAndKeyboard/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails
+[0.973s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2
+[0.973s] copying models/parrot_bebop_2/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2
+[0.973s] copying models/parrot_bebop_2/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2
+[0.973s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.973s] copying models/parrot_bebop_2/meshes/propeller_rr.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.973s] copying models/parrot_bebop_2/meshes/propeller_fl.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.973s] copying models/parrot_bebop_2/meshes/propeller_fr.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.973s] copying models/parrot_bebop_2/meshes/propeller_rl.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.973s] copying models/parrot_bebop_2/meshes/hull.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes
+[0.975s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box
+[0.975s] copying models/Cardboard box/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box
+[0.975s] copying models/Cardboard box/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box
+[0.976s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/meshes
+[0.976s] copying models/Cardboard box/meshes/cardboard_box.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/meshes
+[0.976s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.976s] copying models/Cardboard box/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.976s] copying models/Cardboard box/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.976s] copying models/Cardboard box/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.977s] copying models/Cardboard box/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.977s] copying models/Cardboard box/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails
+[0.977s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/materials
+[0.977s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/materials/textures
+[0.977s] copying models/Cardboard box/materials/textures/cardboard_box.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/materials/textures
+[0.978s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers
+[0.978s] copying models/DRC_Practice_135_degree_barriers/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers
+[0.978s] copying models/DRC_Practice_135_degree_barriers/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers
+[0.978s] copying models/DRC_Practice_135_degree_barriers/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers
+[0.978s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] copying models/DRC_Practice_135_degree_barriers/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] copying models/DRC_Practice_135_degree_barriers/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] copying models/DRC_Practice_135_degree_barriers/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] copying models/DRC_Practice_135_degree_barriers/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] copying models/DRC_Practice_135_degree_barriers/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails
+[0.979s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack
+[0.979s] copying models/Backpack/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack
+[0.979s] copying models/Backpack/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack
+[0.979s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/meshes
+[0.980s] copying models/Backpack/meshes/Backpack.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/meshes
+[0.980s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.980s] copying models/Backpack/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.980s] copying models/Backpack/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.980s] copying models/Backpack/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.980s] copying models/Backpack/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.981s] copying models/Backpack/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails
+[0.981s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/materials
+[0.981s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/materials/textures
+[0.981s] copying models/Backpack/materials/textures/Backpack.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/materials/textures
+[0.982s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/unit_box
+[0.982s] copying models/unit_box/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/unit_box
+[0.982s] copying models/unit_box/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/unit_box
+[0.983s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue
+[0.983s] copying models/OfficeChairBlue/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue
+[0.983s] copying models/OfficeChairBlue/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue
+[0.983s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.983s] copying models/OfficeChairBlue/meshes/OfficeChairBlue_Col.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.983s] copying models/OfficeChairBlue/meshes/OfficeChairBlue.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.983s] copying models/OfficeChairBlue/meshes/OfficeChairBlue_Col.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.983s] copying models/OfficeChairBlue/meshes/OfficeChairBlue.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.984s] copying models/OfficeChairBlue/meshes/OfficeChairBlue.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes
+[0.984s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.984s] copying models/OfficeChairBlue/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.984s] copying models/OfficeChairBlue/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.984s] copying models/OfficeChairBlue/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.984s] copying models/OfficeChairBlue/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.984s] copying models/OfficeChairBlue/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails
+[0.985s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.985s] copying models/OfficeChairBlue/thumbnails/meta/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.985s] copying models/OfficeChairBlue/thumbnails/meta/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.985s] copying models/OfficeChairBlue/thumbnails/meta/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.985s] copying models/OfficeChairBlue/thumbnails/meta/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.986s] copying models/OfficeChairBlue/thumbnails/meta/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta
+[0.986s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier
+[0.986s] copying models/Drc_practice_orange_jersey_barrier/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier
+[0.986s] copying models/Drc_practice_orange_jersey_barrier/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier
+[0.986s] copying models/Drc_practice_orange_jersey_barrier/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier
+[0.986s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/meshes
+[0.987s] copying models/Drc_practice_orange_jersey_barrier/meshes/jersey_barrier.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/meshes
+[0.987s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin
+[0.987s] copying models/TrashBin/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin
+[0.987s] copying models/TrashBin/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin
+[0.987s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes
+[0.987s] copying models/TrashBin/meshes/TrashBin.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes
+[0.987s] copying models/TrashBin/meshes/TrashBin.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes
+[0.987s] copying models/TrashBin/meshes/TrashBin_Diffuse.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes
+[0.988s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.988s] copying models/TrashBin/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.988s] copying models/TrashBin/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.989s] copying models/TrashBin/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.989s] copying models/TrashBin/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.989s] copying models/TrashBin/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails
+[0.989s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.989s] copying models/Bookshelf/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.989s] copying models/Bookshelf/model-1_2.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.989s] copying models/Bookshelf/bookshelf_diffuse.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.990s] copying models/Bookshelf/model-1_3.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.990s] copying models/Bookshelf/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.990s] copying models/Bookshelf/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf
+[0.990s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.990s] copying models/Bookshelf/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.991s] copying models/Bookshelf/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.991s] copying models/Bookshelf/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.991s] copying models/Bookshelf/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.991s] copying models/Bookshelf/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails
+[0.991s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT
+[0.992s] copying models/Pioneer 3AT/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT
+[0.992s] copying models/Pioneer 3AT/model-1_3.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT
+[0.992s] copying models/Pioneer 3AT/model-1_4.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT
+[0.992s] copying models/Pioneer 3AT/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT
+[0.992s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/meshes
+[0.992s] copying models/Pioneer 3AT/meshes/chassis.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/meshes
+[0.992s] copying models/Pioneer 3AT/meshes/wheel.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/meshes
+[0.993s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.993s] copying models/Pioneer 3AT/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.993s] copying models/Pioneer 3AT/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.993s] copying models/Pioneer 3AT/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.993s] copying models/Pioneer 3AT/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.993s] copying models/Pioneer 3AT/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails
+[0.994s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100
+[0.994s] copying models/MiR100/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100
+[0.994s] copying models/MiR100/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100
+[0.994s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.994s] copying models/MiR100/meshes/WheelSide.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.994s] copying models/MiR100/meshes/MiR100_Diffuse.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.995s] copying models/MiR100/meshes/body.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.995s] copying models/MiR100/meshes/body.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.995s] copying models/MiR100/meshes/WheelSide.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.996s] copying models/MiR100/meshes/WheelMain.mtl -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.996s] copying models/MiR100/meshes/WheelMain.obj -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes
+[0.996s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.996s] copying models/MiR100/thumbnails/5.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.996s] copying models/MiR100/thumbnails/2.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.996s] copying models/MiR100/thumbnails/1.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.997s] copying models/MiR100/thumbnails/3.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.997s] copying models/MiR100/thumbnails/4.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails
+[0.997s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project
+[0.997s] copying models/final_project/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project
+[0.997s] copying models/final_project/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project
+[0.997s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/meshes
+[0.997s] copying models/final_project/meshes/chair.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/meshes
+[0.998s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials
+[0.998s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/textures
+[0.998s] copying models/final_project/materials/textures/MyImage.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/textures
+[1.000s] copying models/final_project/materials/textures/gray-wall.jpg -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/textures
+[1.007s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/scripts
+[1.007s] copying models/final_project/materials/scripts/my_ground_plane.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/scripts
+[1.007s] copying models/final_project/materials/scripts/wall.material -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/scripts
+[1.007s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box
+[1.008s] copying models/cardboard_box/model.sdf -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box
+[1.008s] copying models/cardboard_box/model.config -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box
+[1.008s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/meshes
+[1.008s] copying models/cardboard_box/meshes/cardboard_box.dae -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/meshes
+[1.008s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/materials
+[1.008s] creating /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/materials/textures
+[1.008s] copying models/cardboard_box/materials/textures/cardboard_box.png -> /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/materials/textures
+[1.009s] running install_egg_info
+[1.011s] Copying ../../build/my_turtlebot/my_turtlebot.egg-info to /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info
+[1.012s] running install_scripts
+[1.035s] writing list of installed files to '/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/install.log'
+[1.062s] Invoked command in '/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/src/Course-34761-robot-autonomy' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot build --build-base /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/build install --record /home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/build/my_turtlebot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,193 @@
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot/__init__.py
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot/__pycache__/__init__.cpython-310.pyc
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/ament_index/resource_index/packages/my_turtlebot
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/package.xml
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch/turtlebot_rviz.launch.py
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch/turtlebot_gazebo.launch.py
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch/turtlebot_simulation.launch.py
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/launch/turtlebot_bringup.launch.py
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/rviz/rviz_launch.rviz
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/worlds/lab_world.world
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/maps/map.pgm
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/maps/map.yaml
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes/propeller_rr.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes/propeller_fl.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes/propeller_fr.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes/propeller_rl.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/meshes/hull.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Parrot Bebop 2/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/meshes/marker.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/meshes/marker_stand.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/marker_1.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/marker_4.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/metal_texture.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/marker_3.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/marker_2.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/textures/marker_5.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_4.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_5.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_1.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_3.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_2.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/marker/materials/scripts/my_marker_stand.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/drc_practice_yellow_jersey_barrier/meshes/jersey_barrier.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes/RecTable.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes/RecTable_Col.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes/RecTable.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes/RecTable_Col.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/meshes/rectable.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/RecTable/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/model-1_3.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/meshes/chassis.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/pioneer3at/meshes/wheel.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes/keyboard.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes/monitor.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes/keyboard.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/meshes/monitor.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MonitorAndKeyboard/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes/propeller_rr.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes/propeller_fl.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes/propeller_fr.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes/propeller_rl.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/parrot_bebop_2/meshes/hull.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/meshes/cardboard_box.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Cardboard box/materials/textures/cardboard_box.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/DRC_Practice_135_degree_barriers/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/meshes/Backpack.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Backpack/materials/textures/Backpack.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/unit_box/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/unit_box/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes/OfficeChairBlue_Col.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes/OfficeChairBlue.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes/OfficeChairBlue_Col.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes/OfficeChairBlue.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/meshes/OfficeChairBlue.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/OfficeChairBlue/thumbnails/meta/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Drc_practice_orange_jersey_barrier/meshes/jersey_barrier.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes/TrashBin.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes/TrashBin.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/meshes/TrashBin_Diffuse.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/TrashBin/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/model-1_2.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/bookshelf_diffuse.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/model-1_3.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Bookshelf/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/model-1_3.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/model-1_4.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/meshes/chassis.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/meshes/wheel.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/Pioneer 3AT/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/WheelSide.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/MiR100_Diffuse.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/body.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/body.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/WheelSide.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/WheelMain.mtl
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/meshes/WheelMain.obj
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails/5.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails/2.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails/1.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails/3.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/MiR100/thumbnails/4.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/meshes/chair.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/textures/MyImage.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/textures/gray-wall.jpg
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/scripts/my_ground_plane.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/final_project/materials/scripts/wall.material
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/model.sdf
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/model.config
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/meshes/cardboard_box.dae
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/share/my_turtlebot/models/cardboard_box/materials/textures/cardboard_box.png
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/zip-safe
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/entry_points.txt
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/requires.txt
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/top_level.txt
+/home/mikkel/git/Robot-Autonomy/workspace/ros2_ws1/install/my_turtlebot/lib/python3.10/site-packages/my_turtlebot-0.0.0-py3.10.egg-info/PKG-INFO
