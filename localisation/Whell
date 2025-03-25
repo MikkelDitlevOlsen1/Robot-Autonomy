@@ -1,0 +1,88 @@
+# Simple stand alone wheel odometry example of a differential drive robot
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+class DifferentialDriveOdometry:
+    def __init__(self, wheel_radius, wheel_base):
+        self.wheel_circumference = 2 * np.pi * wheel_radius  # Circumference of the wheels (m)
+        self.wheel_base = wheel_base  # Distance between the wheels (m)
+        self.x = 0.0  # X position (m)
+        self.y = 0.0  # Y position (m)
+        self.theta = 0.0  # Orientation (rad)
+    
+    def update(self, N_left, N_right):
+        """Update position based on wheel revolutions."""
+        delta_left = self.wheel_circumference*N_left
+        delta_right = self.wheel_circumference*N_right
+      
+        # Convert wheel revolutions to linear and angular motion
+        delta_d = (delta_left + delta_right) / 2.0
+        delta_theta = (delta_right - delta_left) / self.wheel_base
+        
+        # Update robot position and orientation
+        self.x += delta_d * np.cos(self.theta)
+        self.y += delta_d * np.sin(self.theta)
+        self.theta += delta_theta
+    
+    def get_pose(self):
+        return self.x, self.y, self.theta
+
+# Simulation parameters
+wheel_radius = 0.05  # 5 cm
+wheel_base = 0.20  # 20 cm
+
+odometry = DifferentialDriveOdometry(wheel_radius, wheel_base)
+
+# Define movement pattern using wheel revolutions (N)
+commands = []
+steps_per_phase = 50  # Steps per movement phase
+dt = 1/steps_per_phase  # step size
+
+N_forward = 1.0 #Turn Wheel 1 revolution
+for _ in range(steps_per_phase):
+    noise_left = np.random.uniform(-0.3, 0.3)  # Add small random variation
+    noise_right = np.random.uniform(-0.3, 0.3)  # Add small random variation
+    commands.append((N_forward + noise_left, N_forward + noise_right))
+
+# Turn left (in place) 
+N_turn = 0.25
+for _ in range(steps_per_phase):
+    commands.append((-N_turn, N_turn))
+# Drive forward 1m with randomness
+for _ in range(steps_per_phase):
+    noise_left = np.random.uniform(-0.3, 0.3)  # Add small random variation
+    noise_right = np.random.uniform(-0.3, 0.3)  # Add small random variation
+    commands.append((N_forward + noise_left, N_forward + noise_right))
+
+# Turn left (in place)
+for _ in range(steps_per_phase):
+    commands.append((-N_turn, N_turn))
+# Drive forward 1m with randomness
+for _ in range(steps_per_phase):
+    noise_left = np.random.uniform(-0.3, 0.3)  # Add small random variation
+    noise_right = np.random.uniform(-0.3, 0.5)  # Add small random variation
+    commands.append((N_forward*0.1 + noise_left, N_forward + noise_right))
+
+
+
+# Simulate motion
+x_positions, y_positions = [], []
+for left_N, right_N in commands:
+    left_N_dt = left_N * dt
+    right_N_dt = right_N * dt
+    odometry.update(left_N_dt, right_N_dt)
+    x, y, ang = odometry.get_pose()
+    x_positions.append(x)
+    y_positions.append(y)
+
+# Plot results
+plt.scatter(x_positions, y_positions, label="Trajectory", s=10)
+plt.xlabel("X Position (m)")
+plt.ylabel("Y Position (m)")
+plt.scatter(x_positions[0], y_positions[0], color='red', label="Start Position", s=50)
+plt.scatter(x_positions[-1], y_positions[-1], color='green', label="End Position", s=50)
+plt.title("Differential Drive Odometry")
+plt.legend()
+plt.grid()
+plt.show()
